@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/000Erick/synapse/releases/download/v0.1.0/synapse_0.1.0_windows_amd64.zip",
+            "bin": [
+                "synapse.exe"
+            ],
+            "hash": "0bb3e38e74f0bb5b7d8931007a25ba9213b78fb281df1793b60e39504abd7077"
+        },
+        "arm64": {
+            "url": "https://github.com/000Erick/synapse/releases/download/v0.1.0/synapse_0.1.0_windows_arm64.zip",
+            "bin": [
+                "synapse.exe"
+            ],
+            "hash": "d1910c8b184967e0c0a84d91ea2392852e76584b03c9ba0564e1f499c7d683c4"
+        }
+    },
+    "homepage": "https://github.com/000Erick/synapse",
+    "license": "MIT",
+    "description": "Semantic vector search for Engram memory — pure Go, MCP-native."
+}
